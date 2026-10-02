@@ -1,5 +1,5 @@
 # Navmi Rajeev · Portfolio
-
+URL:https://portfolio-navmi.vercel.app/
 Personal portfolio website showcasing my work across **Artificial Intelligence, Machine Learning, Computer Vision, Vision-Language Models and research**.
 
 The site combines a minimal editorial design with interactive motion, smooth scrolling and WebGL-based visual effects.
